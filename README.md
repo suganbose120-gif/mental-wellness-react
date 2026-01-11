@@ -19,3 +19,8 @@ A React-based mental wellness application that helps users track their mood, rec
 ```bash
 npm install
 npm run dev
+## 📸 Screenshots
+
+![Home](./screenshots/home.png)
+![Mood Selection](./screenshots/mood.png)
+![Dark Mode](./screenshots/dark-mode.png)
